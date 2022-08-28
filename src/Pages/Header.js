@@ -18,7 +18,7 @@ const Header = () => {
         style={{
           position: "fixed",
           padding: "10px 0px 15px 0px",
-          top: "9.3%",
+          top: "8.5%",
           left: "5.3%",
           right: 0,
           bottom: "76%",
