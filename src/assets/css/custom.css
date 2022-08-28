@@ -1,0 +1,47 @@
+
+
+.navbar1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 1px 0px #e2e2e2, 0px 0px 4px rgba(0, 0, 0, 0.05) !important;
+  position: relative;
+  height: 60px;
+  
+}
+
+.buttons{
+  color: #0083E3;
+  border-bottom: 3px solid #0083E3;
+}
+
+.internalContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.partition {
+  position: absolute;
+  /* left: 98.43%;
+  right: -0.79%; */
+  margin-left: 25px;
+  top: 0%;
+  bottom: 0%;
+  border: 1px solid #e2e2e2;
+}
+
+.sidebar1 {
+  width: 80px;
+  position: fixed;
+  left: 0%;
+  right: 94.73%;
+  top: 0%;
+  bottom: 0%;
+  display: flex;
+  flex-direction: column;
+  background: #042235;
+  box-shadow: inset 0px 1px 3px rgba(0, 0, 0, 0.5),
+    inset -4px 0px 4px rgba(2, 15, 24, 0.569466);
+}
